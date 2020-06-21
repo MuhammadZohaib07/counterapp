@@ -1,5 +1,5 @@
 const counterReducer = (state, action) => {
-    switch (action) {
+    switch (action.type) {
       case 'INCREMENT':
         return state + 1
     }
