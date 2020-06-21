@@ -15,4 +15,4 @@ const Child2 = () => {
     )
 }
 
-export default Child2
+export default Child2;
